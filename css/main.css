@@ -1,0 +1,34 @@
+#homepage{
+    background: linear-gradient(rgba(146, 240, 247, 0.7),rgba(140, 238, 255, 0.637)), url('images/one.jpg');
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.headi{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.para{
+    font-family: monospace;
+    font-size: 1.2rem;
+    color: black;
+    line-height: 1.5rem;
+    font-weight: bold;
+}
+
+.about_us_para{
+    font-family: monospace;
+    font-size: 1rem;
+    line-height: 1.7rem;
+}
+
+.parallax-container {
+    height: 40vh;
+  }
